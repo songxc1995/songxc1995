@@ -15,7 +15,6 @@
 | 项目 | 说明 |
 | --- | --- |
 | [database_ai_center_skill](https://github.com/songxc1995/database_ai_center_skill) | 面向 DBA 的 AI Agent 技能集：资产统计、告警与拓扑识别（RAC / Data Guard / 复制 / 云 RDS）、只读诊断探针、历史故障知识库 grounding，对接 Database AI Center API |
-| [cn-math-taxonomy（fork）](https://github.com/songxc1995/cn-math-taxonomy) | 中小学知识图谱：完成小学段 1800 题全量审校并提交 Issue #8–#11；贡献沪教版（上海）小学数学知识点映射 242 条（上游 PR #12） |
 
 ## 技术栈
 
